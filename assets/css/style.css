@@ -13,7 +13,7 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,300italic);
 
 body {
-	background-image:url(../images/5040007.jpg);
+	background-image:url(../images/shiny.jpg);
 	font: 300 16px/1.8 'Lato', sans-serif;
 	color: #888;
 	text-align: center;
@@ -176,7 +176,7 @@ h4 { font-size: 18px; }
 
 .intro, .footer {
 	background-color: rgba(0, 0, 0, .5) !important;
-	background-image: url("../images/5040007.jpg") !important;
+	background-image: url("../images/shiny.jpg") !important;
 	padding: 50px 0;
 	z-index: auto !important;
 	color: #FFF;
